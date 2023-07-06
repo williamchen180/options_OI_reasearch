@@ -7,7 +7,7 @@ import datetime
 import matplotlib.font_manager as fm
 import sys
 # plt.rcParams['axes.unicode_minus'] = False
-font_path = r'C:\Users\white\Anaconda3\Lib\site-packages\matplotlib\mpl-data\fonts\ttf\NotoSansMonoCJKtc-Regular.otf'
+font_path = r'fonts/NotoSansMonoCJKtc-Regular.otf'
 chinese_font = fm.FontProperties(fname=font_path, size=20)
 
 
